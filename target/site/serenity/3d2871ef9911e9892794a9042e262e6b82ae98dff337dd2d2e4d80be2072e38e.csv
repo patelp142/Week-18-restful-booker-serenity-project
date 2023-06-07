@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CRUD test","Creating token.","SUCCESS","2023-06-07T22:46:22.951+01:00[Europe/London]","0.0","6.24"
+"CRUD test","Creating booking and verifying booking created.","SUCCESS","2023-06-07T22:46:29.227+01:00[Europe/London]","0.0","0.62"
+"CRUD test","Getting All IDs.","SUCCESS","2023-06-07T22:46:29.843+01:00[Europe/London]","0.0","0.86"
+"CRUD test","Getting Single ID.","SUCCESS","2023-06-07T22:46:30.709+01:00[Europe/London]","0.0","0.61"
+"CRUD test","Updating Single ID.","SUCCESS","2023-06-07T22:46:31.324+01:00[Europe/London]","0.0","1.14"
+"CRUD test","Deleting the ID and verifying deletion.","SUCCESS","2023-06-07T22:46:32.465+01:00[Europe/London]","0.0","1.07"
